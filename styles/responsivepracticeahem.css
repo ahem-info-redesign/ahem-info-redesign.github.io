@@ -264,6 +264,7 @@ a.button {
 	}
 
 a.button-inpage {
+	border: 1px #7a9d96 solid;
 	background-color: #7a9d96;
 	padding: 8px 30px;
 	border-radius: 30px;
