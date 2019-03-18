@@ -21,7 +21,7 @@ blockquote {
 blockquote {
 	padding-left: 40px;
 	padding-right: 40px;
-	padding-bottom: 15px;
+	margin-bottom: 10px;
 }
 
 header {
@@ -263,6 +263,16 @@ a.button {
 	text-transform: uppercase;
 	}
 
+a.button-inpage {
+	background-color: #7a9d96;
+	padding: 8px 30px;
+	border-radius: 30px;
+	font-size: 1em;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-transform: uppercase;
+	}
+
 a:link.plain-link, a:visited.plain-link, a:hover.plain-link, a:active.plain-link, a:focus.plain-link {
     color: #dcae1d;
     font-style: normal;
@@ -411,7 +421,7 @@ a:link.plain-link, a:visited.plain-link, a:hover.plain-link, a:active.plain-link
 	
 	.col-boardpics {
 		width: 25%;
-		padding-bottom: 20px;
+		padding-bottom: 0px;
 	}
 
 }
