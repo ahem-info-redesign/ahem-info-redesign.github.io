@@ -426,3 +426,8 @@ a:link.plain-link, a:visited.plain-link, a:hover.plain-link, a:active.plain-link
 	}
 
 }
+.bookgroup {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
