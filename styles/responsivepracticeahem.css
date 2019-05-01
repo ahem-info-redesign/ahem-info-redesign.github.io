@@ -59,6 +59,7 @@ header {
 		width: 100%;
 		noshade: noshade;
 		color: #00303f;	
+	    border-top: 1px solid #dcae1d;
 }
 
 body {
@@ -81,7 +82,7 @@ body {
 }
 
 h1, h2, h3 {
-    color: #dcae1d;
+    color: #627e78;
     font-style: normal;
     font-weight: 400;
 }
@@ -285,7 +286,7 @@ a.button-inpage {
 	}
 
 a:link.plain-link, a:visited.plain-link, a:hover.plain-link, a:active.plain-link, a:focus.plain-link {
-    color: #dcae1d;
+    color: #627e78;
     font-style: normal;
     font-weight: 400;
 	text-decoration: none;
