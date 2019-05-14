@@ -149,7 +149,7 @@ p {
 }
 .nested {
     padding-left: 40px;
-	padding-bottom: 15px;
+	padding-bottom: 10px;
     list-style-type: disc;
     list-style-position: outside;
 }
